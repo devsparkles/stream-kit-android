@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "StreamKit"
 include(":app")
- 
+include(":core:player")
