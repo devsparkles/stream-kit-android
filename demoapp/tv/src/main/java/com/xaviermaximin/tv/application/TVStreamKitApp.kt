@@ -1,4 +1,4 @@
-package com.xaviermaximin.tv
+package com.xaviermaximin.tv.application
 
 import android.app.Application
 import android.os.StrictMode
